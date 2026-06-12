@@ -1,4 +1,4 @@
-# P2 — Configuration PC professionnelle
+# P1 — Configuration PC professionnelle
 
 ## 🎯 Objectif
 
