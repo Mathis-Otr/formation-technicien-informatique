@@ -13,8 +13,9 @@ dispensée en mode hybride sur 9 mois (6 mois de formation + 3 mois de stage).
 
 | Projet | Description | Statut |
 |--------|-------------|--------|
-| [P1 - Montage et déploiement Windows](./P1-montage-deploiement-windows/) | Installation et configuration d'un poste Windows | ✅ En cours |
-| [P2 - Configuration PC professionnelle](./P2-configuration-pc/) | Sélection et justification de composants pour un PC CAO/DAO | ✅ En cours |
+| [P1 - Configuration PC professionnelle](./P2-configuration-pc/) | Sélection et justification de composants pour un PC CAO/DAO | ✅ En cours |
+| [P2 - Montage et déploiement Windows](./P1-montage-deploiement-windows/) | Installation et configuration d'un poste Windows | ✅ En cours |
+
 
 ## 🛠️ Compétences mobilisées
 
